@@ -1,7 +1,5 @@
-EDA/DB/
-EDA/.ipynb_checkpoints
-EDA/analysis.xlsx
-**/DB
-**/output
+EDA/
+**/DB/**
+**/output/**
 
 README.md
