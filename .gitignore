@@ -1,5 +1,7 @@
 EDA/
 **/DB/**
 **/output/**
+**/img/*.png
+**/img/**/*.png
 
 README.md
